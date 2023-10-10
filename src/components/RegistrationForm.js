@@ -172,7 +172,6 @@ function RegistrationForm() {
           member.college === "" ||
           member.college_id === "" ||
           member.phone === "" ||
-          member.college === "" ||
           member.guardian_name === "" ||
           member.guardian_phone === ""
         ) {
@@ -437,6 +436,7 @@ function RegistrationForm() {
                 <option value="Web 3.0">Web 3.0</option>
                 <option value="Ed tech">Ed Tech</option>
                 <option value="Auto tech">Auto Tech</option>
+                {/* <option value="Open Theme">Open Theme</option> */}
               </select>
             </label>
 
