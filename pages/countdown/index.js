@@ -23,7 +23,6 @@ const Countdown = () => {
                     <h1 className = "text-center my-10 text-5xl">All The Best!</h1>
                     <TimerAlt setdone = {false} date = {'2023/10/15 10:00:00'} />
                 </div>
-
             </>
         )
     }
