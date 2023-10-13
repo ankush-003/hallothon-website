@@ -30,6 +30,7 @@ module.exports = {
                 poppins: ['Poppins', 'sans-serif'],
                 agency: ['Agency FB', 'arial'],
             },
+            
         },
     },
     plugins: [],

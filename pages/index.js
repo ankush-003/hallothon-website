@@ -8,6 +8,7 @@ import Prizepool from "../src/components/Prizepool";
 import TimelineSection from "../src/components/Timeline";
 import Sponsor from "../src/components/Sponsor";
 
+
 export default function Home() {
   return (
     <div className="">

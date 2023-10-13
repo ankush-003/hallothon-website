@@ -1,0 +1,4 @@
+.countdown-container {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(60,15,15,1) 35%, rgba(134,19,20,1) 100%);
+}
