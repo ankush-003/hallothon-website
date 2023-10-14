@@ -8,7 +8,7 @@ import HallothonLogo from "./../../public/assets/hallothonLogo.svg"
 const Countdown = () => {
 
     const currDate = new Date();
-    const DateToBe = new Date('2023/10/14 9:30:00');
+    const DateToBe = new Date('2023/10/15 9:30:00');
 
     const [show, setShow] = useState(false)
 
