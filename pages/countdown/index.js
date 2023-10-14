@@ -4,12 +4,11 @@ import Image from "next/image";
 import Head from "next/head";
 
 import HallothonLogo from "./../../public/assets/hallothonLogo.svg"
-import HallothonGrad from "./../../public/assets/grad.jpg"
 
 const Countdown = () => {
 
     const currDate = new Date();
-    const DateToBe = new Date('2023/10/14 10:00:00');
+    const DateToBe = new Date('2023/10/14 9:30:00');
 
     const [show, setShow] = useState(false)
 
